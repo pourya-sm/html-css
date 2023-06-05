@@ -8,3 +8,8 @@ This repository is to keep track of my html &amp; css learning history
     see "grid.html" for reference
 
   .open grid.html to learn all the syntax
+
+## FLEXBOX
+  . remember: If you don't want a part of a flexbox to not shrink, you can use the special property "flex-shrink: 0;" and then the part that is allowed to shrink should be specified with "width: 0;"
+
+  
